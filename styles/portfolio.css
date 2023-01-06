@@ -17,6 +17,16 @@
     border: 0;
     border-radius: 5px;
 }
+.btn-call{
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+    font-weight: 700px;
+    font-size: 20px;
+    height: 64px;
+    padding: 18px 35px;
+    /* pc display size 100% rakhle margin dile name & contract button niche cole jay */
+    margin-left: 30px;
+}
 
 .header {
     background: #FFF8F3;
@@ -51,7 +61,7 @@ nav li {
 .banner {
     display: flex;
     align-items:center;
-    margin: 0 150px;
+    margin: 0 200px;
 }
 
 .banner-title {
